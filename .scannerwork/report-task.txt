@@ -1,0 +1,7 @@
+organization=pamdzia
+projectKey=pamdzia:Ebiznes7-client
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53978
+dashboardUrl=https://sonarcloud.io/dashboard?id=pamdzia%3AEbiznes7-client
+ceTaskId=AY8Rh0fJLXQMdAsvxe2M
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8Rh0fJLXQMdAsvxe2M
